@@ -1,2 +1,2 @@
 # Thecloudgirlie
-Hey there! I'm Kelechi(Thecloudgirlie). I am an enthusiastic International Business Management professional diving into the world of Cloud Computing
+Hey there! I'm Kelechi(Thecloudgirlie). I am passionate about building scalable, resilient, and efficient cloud solutions, I'm a cloud engineer and AWS Certified Cloud Practitioner with hands-on experience in infrastructure automation, CI/CD pipelines, and container orchestration. My operations and cloud technology background drives my commitment to optimizing workflows and delivering secure, reliable solutions.
